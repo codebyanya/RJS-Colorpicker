@@ -5,15 +5,17 @@ html, body {
 
 body {
   background-color: #ffffff;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Audiowide', cursive;
   text-align: center;
+  font-size: 25px;
+  font-weight: 600;
 }
 
 #app {
   position: relative;
   height: 100%;
   width: 100%;
-  padding-top: 10px;
+  padding-top: 80px;
 }
 
 #app div {
@@ -36,11 +38,11 @@ h1, h2 {
 
 button {
   border-radius: 8px;
-  padding: 15px 32px;
+  padding: 30px 64px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 16px;
+  font-size: 25px;
   font-family: 'Oxygen', sans-serif;
   letter-spacing: 2px;
 }
